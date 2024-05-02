@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "郭志国"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "China Agriculture University"
