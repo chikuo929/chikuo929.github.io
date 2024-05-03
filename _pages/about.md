@@ -20,7 +20,6 @@ redirect_from:
 研究兴趣
 ======
 * Computer Vision  计算机视觉
-  
 * 3D Reconstruction 三维重建
 
 教育经历
