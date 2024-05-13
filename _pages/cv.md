@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-
+*Research Assistant, INSTITUTE OF NETWORK TECHNOLOGY (YANTAI)
 
 Skills
 ======
