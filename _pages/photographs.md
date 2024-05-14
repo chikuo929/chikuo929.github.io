@@ -14,7 +14,15 @@ author_profile: true
 
 颐和园.北京
 
+<img src='/images/DSC_0239.JPG'  width = 600 height = 400>
+
+朝阳街.烟台
+
 <img src='/images/DSC_0233.JPG'  width = 600 height = 400>
+
+朝阳街.烟台
+
+<img src='/images/DSC_0168.JPG'  width = 600 height = 400>
 
 朝阳街.烟台
 
@@ -33,6 +41,14 @@ author_profile: true
 <img src='/images/DSC_0877.JPG'  width = 600 height = 400>
 
 紫云观.江门
+
+<img src='/images/DSC_0761.JPG'  width = 600 height = 400>
+
+大石头公园.江门
+
+<img src='/images/DSC_1143.JPG'  width = 600 height = 400>
+
+清晖园.顺德
 
 <img src='/images/DSC_0450.JPG'  width = 600 height = 400>
 
