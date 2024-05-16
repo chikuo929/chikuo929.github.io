@@ -20,7 +20,10 @@ Work experience
 
 Skills
 ======
-* Python、C++、C、Java
+* Programming language: Python、C++、C、Java
+* Front End Skills: Vue，Element，JavaWeb，QT
+* Back End Skills: Spring Boot，MyBatis
+
 
 Publications
 ======
