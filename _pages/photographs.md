@@ -5,6 +5,8 @@ permalink: /photographs/
 author_profile: true
 ---
 
+## 作为一个摄影爱好者，我喜欢记录生活的碎片，在此把自认为还可以的照片分享给大家
+
 
 <img src='/images/20230905.jpg'  width = 600 height = 400>
 
