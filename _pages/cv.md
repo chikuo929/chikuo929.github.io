@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-* Research Assistant, INSTITUTE OF NETWORK TECHNOLOGY (YANTAI)
+* Research Assistant, INSTITUTE OF NETWORK TECHNOLOGY (YANTAI), 2024.05-2024.06
+* Legal Assistant, Jiangxi Mingli Law Firm, 2024.07-2024.09
 
 Skills
 ======
