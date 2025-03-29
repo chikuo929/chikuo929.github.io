@@ -21,6 +21,7 @@ redirect_from:
 ======
 * Computer Vision  计算机视觉
 * 3D Reconstruction 三维重建
+* NLP 自然语言处理
 
 教育经历
 ======
