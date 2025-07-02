@@ -55,3 +55,8 @@ author_profile: true
 <img src='/images/DSC_0450.JPG'  width = 600 height = 400>
 
 滨海中路.烟台
+
+<img src='/images/DSC_0294.JPG'  width = 600 height = 400>
+
+烟台大学.烟台
+
