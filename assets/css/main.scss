@@ -60,3 +60,8 @@
 .language-switch a { padding: .45rem .85rem; border-radius: 999px; color: #516070; text-decoration: none; font-size: .82rem; }
 .language-switch a.is-active { color: #fff; background: #405b85; }
 @media (max-width: 720px) { .home-intro { padding: 1.6rem 1.25rem; } .home-intro h1 { font-size: 1.65rem; } .portal-grid, .portal-grid--three { grid-template-columns: 1fr; } }
+.journey-map-wrap { position: relative; width: 100%; height: 0; padding-bottom: 65%; margin: 1.5rem 0 2rem; overflow: hidden; border: 1px solid #e2e8f0; border-radius: 14px; background: #eef2f7; }
+.journey-map-wrap iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+@media (max-width: 720px) { .journey-map-wrap { padding-bottom: 110%; } }
+.journey-cities ul { display: flex; flex-wrap: wrap; gap: .65rem; padding: 0; list-style: none; }
+.journey-cities li { padding: .45rem .85rem; border: 1px solid #dbe3ee; border-radius: 999px; background: #f8fafc; color: #526074; }
