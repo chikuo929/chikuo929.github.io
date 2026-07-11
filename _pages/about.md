@@ -2,52 +2,18 @@
 permalink: /
 title: "Guo Zhiguo 郭志国"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-这是我的个人主页
+<div class="home-intro"><p class="home-kicker">COMPUTER SCIENCE · RESEARCH · LIFE</p><h1>你好，我是郭志国。</h1><p class="home-lead">中国农业大学计算机技术专业硕士研究生，本科毕业于北京林业大学。关注计算机视觉、三维重建与自然语言处理，也在这里记录项目实践、生活足迹与持续探索。</p><div class="home-actions"><a class="btn btn--primary" href="/about/">关于我</a><a class="btn btn--inverse" href="/research/">研究与成果</a></div></div>
 
-我是谁
-======
-欢迎光临，我叫郭志国，江西赣州人，2001年出生的 Z 世代非典型学生。目前就读于中国农业大学计算机技术专业。在此之前，本科毕业于北京林业大学计算机科学与技术专业。
+## 研究方向
 
-本博客将会非正式地记录我的学术和工程经验、个人生活及任何内容，欢迎世界各地的小伙伴一起交流。
+<div class="portal-grid portal-grid--three"><a class="portal-card" href="/research/"><span>01</span><h3>计算机视觉</h3><p>目标检测、行为识别与视觉理解。</p></a><a class="portal-card" href="/research/"><span>02</span><h3>三维重建</h3><p>从图像到精细三维模型与参数分析。</p></a><a class="portal-card" href="/research/"><span>03</span><h3>自然语言处理</h3><p>探索语言技术及跨学科应用。</p></a></div>
 
-注：你可能已经注意到本页顶部的导航栏中的有趣链接。尝试在那找到更多有趣的内容。如果您想与我联系，请随时从左边找到链接，也可以看我的简历。
+## 浏览主页
 
-研究兴趣
-======
-* Computer Vision  计算机视觉
-* 3D Reconstruction 三维重建
-* NLP 自然语言处理
+<div class="portal-grid"><a class="portal-card" href="/about/"><h3>关于我</h3><p>教育、经历、荣誉以及中英文简历。</p></a><a class="portal-card" href="/research/"><h3>研究与成果</h3><p>研究方向、论文、报告与教学经历。</p></a><a class="portal-card" href="/projects/"><h3>项目与作品</h3><p>科研实践、工程项目与个人作品。</p></a><a class="portal-card" href="/journey/"><h3>足迹与生活</h3><p>摄影、地点与生活中的吉光片羽。</p></a><a class="portal-card" href="/explorations/"><h3>灵感与探索</h3><p>博客、学习记录与开放中的想法。</p></a></div>
 
-教育经历
-======
-* **中国农业大学，专业硕士研究生，计算机技术专业, 2025.09 - 至今**
-* **中国农业大学，法学学士，法学专业, 2023.09 - 2025.06**
-* **北京林业大学，工学学士，计算机科学与技术专业, 2019.09 - 2023.06**
-
-工作经历
-======
-* **实习生， 中科网络技术研究所，科研助理, 2024.05-2024.06**
-* **实习生， 江西明理律师事务所，律师助理, 2024.07-2024.09**
-
-项目经历
-======
-- **基于深度学习的设施化养殖鱼类摄食行为分析方法与系统构建**
-
-- **树木精细三维建模和分析**
-
-- **研究生培养环节和成果认定综合管理系统**
-
-# 荣誉奖项
-
-- [2024]第十五届全国大学生数学竞赛初赛一等奖
-- [2023]山东省大学生数学竞赛一等奖
-- [2023]第十四届全国大学生数学竞赛初赛二等奖
-- [2023]北京市大学生数学竞赛二等奖
-- [2022]北京林业大学学术优秀奖学金
-- [2021]全国大学生数学建模竞赛北京赛区甲组二等奖
-- [2021]美国大学生数学建模竞赛S奖
+## 最近更新
+{% for post in site.posts limit:3 %}- [{{ post.title }}]({{ post.url }}) · {{ post.date | date: "%Y-%m-%d" }}
+{% endfor %}

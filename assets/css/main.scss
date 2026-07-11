@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Personal homepage portal */
+.home-intro { padding: 2.4rem 2.2rem; margin-bottom: 2.2rem; border-radius: 18px; background: linear-gradient(135deg, #eef6ff 0%, #f7f3ff 100%); border: 1px solid rgba(72, 92, 140, .12); }
+.home-intro h1 { margin: .3rem 0 .8rem; font-size: 2.2rem; }
+.home-kicker { margin: 0; color: #526a91; font-size: .72rem; font-weight: 700; letter-spacing: .14em; }
+.home-lead, .page-intro { font-size: 1.08rem; line-height: 1.85; color: #4b5563; }
+.home-actions { display: flex; flex-wrap: wrap; gap: .65rem; margin: 1.25rem 0 .25rem; }
+.portal-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1rem 0 2rem; }
+.portal-grid--three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.portal-card { display: block; padding: 1.15rem 1.2rem; color: inherit; text-decoration: none; border: 1px solid #e2e8f0; border-radius: 14px; background: #fff; transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; }
+.portal-card:hover { transform: translateY(-3px); border-color: #b8c7e0; box-shadow: 0 10px 24px rgba(40, 55, 85, .09); }
+.portal-card h3 { margin: .35rem 0; font-size: 1.05rem; }
+.portal-card p { margin: 0; color: #667085; font-size: .87rem; line-height: 1.6; }
+.portal-card span { color: #667ea8; font-size: .7rem; font-weight: 700; letter-spacing: .08em; }
+.portal-card--image { padding: .65rem; }
+.portal-card--image img { width: 100%; height: 190px; object-fit: cover; border-radius: 10px; }
+.portal-card--image h3, .portal-card--image p { margin-left: .5rem; margin-right: .5rem; }
+.language-switch { display: inline-flex; padding: .2rem; margin: .4rem 0 1.5rem; border-radius: 999px; background: #eef2f7; }
+.language-switch a { padding: .45rem .85rem; border-radius: 999px; color: #516070; text-decoration: none; font-size: .82rem; }
+.language-switch a.is-active { color: #fff; background: #405b85; }
+@media (max-width: 720px) { .home-intro { padding: 1.6rem 1.25rem; } .home-intro h1 { font-size: 1.65rem; } .portal-grid, .portal-grid--three { grid-template-columns: 1fr; } }
