@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="language-switch"><a href="/cv-zh/">中文简历</a><a class="is-active" href="/cv/">English CV</a></div>
+
 Education
 ======
 * Bachelor of Laws in College of Humanities and Development Studies (COHD), China Agriculture University, 2025 (expected)

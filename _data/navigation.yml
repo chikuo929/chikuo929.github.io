@@ -1,28 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Project Experience"
-    url: /Project-Experience/
-
-#  - title: "Talks"
-#    url: /talks/
-#
-#  - title: "Teaching"
-#    url: /teaching/
-#
-#  - title: "Portfolio"
-#    url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "Photographs"
-    url: /photographs/
-    
-  - title: "CV"
-    url: /cv/
-    
-  #- title: "Guide"
-   # url: /markdown/
+  - title: "首页"
+    url: /
+  - title: "关于我"
+    url: /about/
+  - title: "研究与成果"
+    url: /research/
+  - title: "项目与作品"
+    url: /projects/
+  - title: "足迹与生活"
+    url: /journey/
+  - title: "灵感与探索"
+    url: /explorations/
