@@ -235,6 +235,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projectexperience:
+    output: true
+    permalink: /projects/:path/
 
 
 # Defaults
@@ -257,6 +260,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _projectexperience
+  - scope:
+      path: ""
+      type: projectexperience
+    values:
+      layout: single
+      author_profile: true
+      share: false
   # _teaching
   - scope:
       path: ""
