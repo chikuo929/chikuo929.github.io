@@ -1,0 +1,80 @@
+- image: /images/photographs/20230905.webp
+  title: 万寿宫
+  city: 南昌
+  date: 2023-09-05
+  alt: 南昌万寿宫内悬挂的红灯笼与鱼灯
+
+- image: /images/photographs/dsc_0269.webp
+  title: 颐和园
+  city: 北京
+  date: 2023-12-31
+  alt: 北京颐和园风景
+
+- image: /images/photographs/dsc_0239.webp
+  title: 朝阳街
+  city: 烟台
+  date: 2023-12-28
+  alt: 烟台朝阳街街景
+
+- image: /images/photographs/dsc_0233.webp
+  title: 朝阳街
+  city: 烟台
+  date: 2023-12-28
+  alt: 烟台朝阳街建筑与街景
+
+- image: /images/photographs/dsc_0168.webp
+  title: 朝阳街
+  city: 烟台
+  date: 2023-12-28
+  alt: 烟台朝阳街沿途景色
+
+- image: /images/photographs/dsc_0257.webp
+  title: 北京林业大学
+  city: 北京
+  date: 2023-12-31
+  alt: 北京林业大学校园风景
+
+- image: /images/photographs/dsc_0301.webp
+  title: 天安门广场
+  city: 北京
+  date: 2024-01-01
+  featured: true
+  alt: 北京天安门广场风景
+
+- image: /images/photographs/dsc_0345.webp
+  title: 国家博物馆
+  city: 北京
+  date: 2024-01-01
+  alt: 北京国家博物馆展陈
+
+- image: /images/photographs/dsc_0877.webp
+  title: 紫云观
+  city: 江门
+  date: 2024-01-18
+  alt: 江门紫云观风景
+
+- image: /images/photographs/dsc_0761.webp
+  title: 大石头公园
+  city: 江门
+  date: 2024-01-18
+  alt: 江门大石头公园风景
+
+- image: /images/photographs/dsc_1143.webp
+  title: 清晖园
+  city: 顺德
+  date: 2024-01-21
+  featured: true
+  alt: 顺德清晖园园林风景
+
+- image: /images/photographs/dsc_0450.webp
+  title: 滨海中路
+  city: 烟台
+  date: 2024-04-29
+  featured: true
+  alt: 烟台滨海中路沿途风景
+
+- image: /images/photographs/dsc_0294.webp
+  title: 烟台大学
+  city: 烟台
+  date: 2025-06-02
+  alt: 烟台大学校园风景
