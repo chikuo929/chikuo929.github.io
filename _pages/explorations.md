@@ -11,10 +11,10 @@ author_profile: true
   <a class="portal-card portal-card--image exploration-project-card" href="/explorations/dream-courtyard/">
     <img src="/images/dream-courtyard/hero.webp" alt="三层现代东方风格庭院住宅概念效果图">
     <div class="exploration-project-card__body">
-      <span>住宅概念 · 30 × 40 米庭院</span>
+      <span>童年梦想 · 未来的家</span>
       <h3>理想庭院之家</h3>
-      <p>一套以中轴秩序、通透界面与完整庭院生活为核心的三层现代东方住宅。</p>
-      <strong>查看设计方案 →</strong>
+      <p>小时候，我常常想象自己未来的家。这次先把梦想中的庭院画进图纸里——希望有一天，真的能按这个样子把它盖出来。</p>
+      <strong>走进我的庭院梦想 →</strong>
     </div>
   </a>
 </div>
