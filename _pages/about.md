@@ -8,7 +8,7 @@ author_profile: true
 
 ## 研究方向
 
-<div class="portal-grid portal-grid--three"><a class="portal-card" href="/research/"><span>01</span><h3>计算机视觉</h3><p>目标检测、行为识别与视觉理解。</p></a><a class="portal-card" href="/research/"><span>02</span><h3>三维重建</h3><p>从图像到精细三维模型与参数分析。</p></a><a class="portal-card" href="/research/"><span>03</span><h3>自然语言处理</h3><p>探索语言技术及跨学科应用。</p></a></div>
+<div class="portal-grid portal-grid--three"><a class="portal-card" href="/research/"><span>01</span><h3>计算机视觉</h3><p>面向智慧渔业场景，开展鱼类目标检测、行为识别与表型特征分析。</p></a><a class="portal-card" href="/research/"><span>02</span><h3>循环水养殖系统仿真</h3><p>基于机理模型研究水质、硝化微生物与养殖装备之间的动态关系。</p></a><a class="portal-card" href="/research/"><span>03</span><h3>智能预测与优化</h3><p>利用机器学习和时序模型估计硝化功能，开展运行状态预测与策略优化。</p></a></div>
 
 ## 浏览主页
 
