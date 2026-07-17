@@ -1,0 +1,20 @@
+{% assign related_projects = site.projectexperience | sort: "order" %}
+<div class="research-project-grid">
+  {% for project in related_projects %}
+    {% if project.research_areas contains include.area %}
+      <a class="research-project-card" href="{{ project.url | relative_url }}">
+        {% if project.project_image %}
+          <div class="research-project-card__media">
+            <img src="{{ project.project_image | relative_url }}" alt="{{ project.project_image_alt | default: project.title }}" loading="lazy">
+          </div>
+        {% endif %}
+        <div class="research-project-card__body">
+          <span>{{ project.category }}</span>
+          <h3>{{ project.short_title | default: project.title }}</h3>
+          <p>{{ project.excerpt | strip_html | strip_newlines }}</p>
+          <strong>查看项目详情 <span aria-hidden="true">→</span></strong>
+        </div>
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>

@@ -1,0 +1,35 @@
+- number: "01"
+  title: "计算机视觉"
+  url: "/research/computer-vision/"
+  description: "面向智慧渔业的实际应用场景，研究鱼类个体检测、品种识别、摄食行为分析与表型特征提取，探索视觉算法在复杂水体环境中的稳定性与应用价值。"
+  image: "/images/research/computer-vision.webp"
+  alt: "鱼类品种识别与目标检测实验结果"
+  image_scale: 1.08
+  tags:
+    - "目标检测"
+    - "行为识别"
+    - "表型分析"
+
+- number: "02"
+  title: "循环水养殖系统仿真"
+  url: "/research/recirculating-aquaculture/"
+  description: "围绕循环水养殖过程建立动态仿真模型，描述水质变化、硝化微生物活动与养殖设备运行之间的相互作用，为系统设计和运行分析提供模型基础。"
+  image: "/images/research/recirculating-aquaculture.webp"
+  alt: "循环水养殖系统仿真结构示意图"
+  image_scale: 1.03
+  tags:
+    - "机理建模"
+    - "水质模拟"
+    - "系统仿真"
+
+- number: "03"
+  title: "智能预测与优化"
+  url: "/research/intelligent-prediction/"
+  description: "结合机器学习与时序建模方法，对硝化功能和系统运行状态进行估计与预测，并进一步研究关键参数识别、异常趋势分析及运行策略优化。"
+  image: "/images/research/intelligent-prediction.webp"
+  alt: "智能预测模型结构示意图"
+  image_scale: 1.1
+  tags:
+    - "时序预测"
+    - "状态估计"
+    - "策略优化"

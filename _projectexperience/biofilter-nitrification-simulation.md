@@ -7,6 +7,11 @@ featured: true
 order: 30
 excerpt: "结合 LibRAS 机理仿真与 iTransformer，研究生物滤池硝化功能的状态评估、时序预测和反馈调节。"
 tech: [Python, PyTorch, iTransformer, LibRAS, OpenModelica]
+research_areas: [recirculating-aquaculture, intelligent-prediction]
+project_parent_url: "/research/intelligent-prediction/"
+project_parent_label: "返回智能预测与优化"
+project_image: "/images/research/intelligent-prediction.webp"
+project_image_alt: "硝化功能智能预测模型结构图"
 ---
 
 ## 项目背景

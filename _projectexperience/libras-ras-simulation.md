@@ -7,6 +7,11 @@ featured: true
 order: 10
 excerpt: "基于 LibRAS 与 OpenModelica 复现和改造循环水养殖系统，为算法研究和运行优化构建可重复的仿真数据环境。"
 tech: [OpenModelica, Modelica, LibRAS, Python, MATLAB]
+research_areas: [recirculating-aquaculture]
+project_parent_url: "/research/recirculating-aquaculture/"
+project_parent_label: "返回循环水养殖系统仿真"
+project_image: "/images/research/recirculating-aquaculture.webp"
+project_image_alt: "LibRAS 循环水养殖系统仿真结构图"
 ---
 
 ## 项目背景

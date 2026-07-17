@@ -7,7 +7,24 @@ author_profile: true
 <p class="page-intro">围绕智慧渔业中的视觉感知、循环水养殖系统仿真与智能预测优化开展研究，并持续积累论文、报告和教学实践。</p>
 
 ## 研究方向
-<div class="portal-grid portal-grid--three"><div class="portal-card"><h3>计算机视觉</h3><p>面向智慧渔业场景，开展鱼类目标检测、行为识别与表型特征分析。</p></div><div class="portal-card"><h3>循环水养殖系统仿真</h3><p>基于机理模型研究水质、硝化微生物与养殖装备之间的动态关系。</p></div><div class="portal-card"><h3>智能预测与优化</h3><p>利用机器学习和时序模型估计硝化功能，开展运行状态预测与策略优化。</p></div></div>
+<div class="research-directions">
+  {% for direction in site.data.research_directions %}
+  <a class="research-card" href="{{ direction.url | relative_url }}" aria-label="查看{{ direction.title }}详细介绍">
+    <div class="research-card__media" style="--research-image-scale: {{ direction.image_scale | default: 1 }};">
+      <img src="{{ direction.image | relative_url }}" alt="{{ direction.alt }}" loading="lazy" width="1600" height="900">
+    </div>
+    <div class="research-card__content">
+      <span class="research-card__number">{{ direction.number }}</span>
+      <h3>{{ direction.title }}</h3>
+      <p>{{ direction.description }}</p>
+      <div class="research-card__tags" aria-label="研究关键词">
+        {% for tag in direction.tags %}<span>{{ tag }}</span>{% endfor %}
+      </div>
+    </div>
+    <span class="research-card__link">查看研究方向与相关项目 <span aria-hidden="true">→</span></span>
+  </a>
+  {% endfor %}
+</div>
 
 ## 学术成果
 {% for post in site.publications reversed %}{% include archive-single.html %}{% endfor %}

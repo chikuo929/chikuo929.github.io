@@ -7,6 +7,8 @@ featured: false
 order: 50
 excerpt: "开发支持在线对弈、棋子双向拖动、悔棋和残局布置的中国象棋网页应用，实现多设备棋局状态实时同步。"
 tech: [JavaScript, Node.js, WebSocket, HTML, CSS]
+project_image: "/images/projects/chinese-chess-web/hero.webp"
+project_image_alt: "极简在线象棋的棋局编辑与残局布置界面"
 ---
 
 ## 项目背景
