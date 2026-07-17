@@ -7,6 +7,11 @@ featured: true
 order: 20
 excerpt: "融合旋转目标检测、品种识别与品相量化，并通过 Streamlit 和 Docker 构建可交互、可迁移的演示系统。"
 tech: [Python, PyTorch, YOLOv8-OBB, MobileViT, Streamlit, Docker, OpenCV]
+research_areas: [computer-vision]
+project_parent_url: "/research/computer-vision/"
+project_parent_label: "返回计算机视觉"
+project_image: "/images/research/computer-vision.webp"
+project_image_alt: "锦鲤品种识别与目标检测实验结果"
 ---
 
 ## 项目背景

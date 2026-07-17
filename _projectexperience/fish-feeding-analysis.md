@@ -7,6 +7,9 @@ featured: true
 order: 60
 excerpt: "结合 YOLOX、SlowFast 与 PyQt5 构建鱼类摄食强度检测识别系统。"
 tech: [MMDetection, MMAction2, YOLOX, SlowFast, PyQt5]
+research_areas: [computer-vision]
+project_parent_url: "/research/computer-vision/"
+project_parent_label: "返回计算机视觉"
 ---
 
 ## 项目背景
