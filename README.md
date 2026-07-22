@@ -1,6 +1,8 @@
 
 # Personal Page
 
+<!-- Deployment refresh: 2026-07-22 -->
+
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 Personal Page is a page  for my academic websites.
